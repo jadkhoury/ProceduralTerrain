@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/Procedural_Terrain.dir/main.cpp.o  -o Procedural_Terrain -rdynamic -lGLU -lGL -lglfw -lGLEW 
